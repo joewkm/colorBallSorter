@@ -1,0 +1,1 @@
+This project use EV3 brick programming module to detects and sort color balls.
